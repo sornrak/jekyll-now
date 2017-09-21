@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Hello! Welcome to my Github
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name Sornrak Jaipakdee
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+sornrak.Jcs57@ubru.ac.th
