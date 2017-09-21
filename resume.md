@@ -6,7 +6,7 @@ permalink: /resume/
 Bs.c. Computer Science, Ubon Ratchathani Ratchapat University
 
 # Experrience
-- Web Developer Client Technical
+- App Inventor 
 
 # Education
 -Bs.c. Computer Science, Ubon Ratchathani Ratchaphat University
